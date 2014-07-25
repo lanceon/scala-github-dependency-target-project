@@ -1,6 +1,6 @@
 organization := "org.company"
 
-name := "scala sbt project"
+name := "scala-github-dependency-target-project"
 
 version := "0.1-SNAPSHOT"
 
