@@ -1,4 +1,4 @@
-organization := "org.yourorganization"
+organization := "org.company"
 
 name := "scala sbt project"
 
